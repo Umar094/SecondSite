@@ -59,10 +59,10 @@ a:hover{
 }
 
 #bottomImg{
-   margin-right: 5%;
-   width: 40px; 
-   height: 40px;
-}
+    margin-right: 5%;
+    width: 40px; 
+    height: 40px;
+ }
 
 .pGray{
     color: hsl(0, 0%, 50%);
